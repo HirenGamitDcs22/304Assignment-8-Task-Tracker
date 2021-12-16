@@ -9,7 +9,6 @@ In the project directory, you can run:
 
 ### `npm run server`
 Runs the Script for use the Tasks Data using the json-server.\
-
 Resources
   [http://localhost:5000/tasks](http://localhost:5000/tasks) for use tasks data  in app.
 
