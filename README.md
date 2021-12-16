@@ -21,8 +21,7 @@ Resources
   [http://localhost:5000/tasks](http://localhost:5000/tasks)
 
 Home
-  [http://localhost:5000](http://localhost:5000)
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  [http://localhost:5000](http://localhost:5000) to view it in the browser.
  
 ## Learn More
 
