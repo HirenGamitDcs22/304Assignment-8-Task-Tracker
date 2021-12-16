@@ -16,7 +16,12 @@ You will also see any lint errors in the console.
 
 
 ### `npm run server`
-Runs the app in the development mode.\
+Runs the Script for use json server.\
+Resources
+  [http://localhost:5000/tasks](http://localhost:5000/tasks)
+
+Home
+  [http://localhost:5000](http://localhost:5000)
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  
 ## Learn More
